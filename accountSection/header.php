@@ -1,0 +1,1 @@
+<center><header><img src="http://localhost/buth_net/pharmacySection/images/buth banner.png" width="1000px" height="100px" alt="Bowen University Intranet"></header></center>

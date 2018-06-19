@@ -1,0 +1,11 @@
+<script src="http://localhost/buth_net/js/jquery.min.js"></script>
+  <script src="http://localhost/buth_net/js/bootstrap.min.js"></script>
+  <script src="http://localhost/buth_net/js/jquery.easing.min.js"></script>
+  <script src="http://localhost/buth_net/js/wow.min.js"></script>
+  <script src="http://localhost/buth_net/js/jquery.scrollTo.js"></script>
+  <script src="http://localhost/buth_net/js/jquery.appear.js"></script>
+  <script src="http://localhost/buth_net/js/stellar.js"></script>
+  <script src="http://localhost/buth_net/plugins/cubeportfolio/js/jquery.cubeportfolio.min.js"></script>
+  <script src="http://localhost/buth_net/js/owl.carousel.min.js"></script>
+  <script src="http://localhost/buth_net/js/nivo-lightbox.min.js"></script>
+  <script src="http://localhost/buth_net/js/custom.js"></script>

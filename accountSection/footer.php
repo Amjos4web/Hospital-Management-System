@@ -1,0 +1,1 @@
+<footer>Designed by Buth Digital Center. Copyright &copy; <?php echo date('Y'); ?>. All right reserved.</footer>

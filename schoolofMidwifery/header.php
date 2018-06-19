@@ -1,0 +1,1 @@
+<center><header><img src="images/buth banner.png" width="1000" height="100" alt="Bowen University Intranet"></header></center>
